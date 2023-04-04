@@ -1,6 +1,8 @@
-import Header from '@/components/header';
+// Copyright (c) 2023 MTG Group. All rights reserved.
+
 import './globals.css';
 
+import Header from '@/components/header';
 import { Inter } from 'next/font/google';
 
 const inter = Inter({

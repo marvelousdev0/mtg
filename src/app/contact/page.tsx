@@ -1,3 +1,5 @@
+// Copyright (c) 2023 MTG Group. All rights reserved.
+
 import { Heading } from '@/components/typography';
 
 export default function Page() {

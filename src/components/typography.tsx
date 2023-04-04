@@ -1,3 +1,5 @@
+// Copyright (c) 2023 MTG Group. All rights reserved.
+
 const headingClasses = {
   1: 'font-black leading-10 tracking-tight text-gray-600 text-6xl',
   2: 'font-extrabold leading-9 tracking-tight text-gray-600 text-5xl',
